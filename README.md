@@ -17,8 +17,6 @@
 
 ## 2. Links de entrega
 
-- **Repositório do código:**
-- https://github.com/molktru13/togglemaster-monolith
 - **Vídeo de demonstração (até 15 min):**
 - https://drive.google.com/file/d/1Km1gQSTCsHw09qhzy_haFgRlLV4Ukr6w/view
 - **Diagrama de arquitetura (diagrams.net):**
