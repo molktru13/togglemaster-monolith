@@ -17,7 +17,6 @@
 
 ## 2. Links de entrega
 
-- **Repositório do código:** https://github.com/molktru13/togglemaster-monolith
 - **Vídeo de demonstração (até 15 min):** https://drive.google.com/file/d/1Km1gQSTCsHw09qhzy_haFgRlLV4Ukr6w/view
 - **Diagrama de arquitetura (diagrams.net):** https://drive.google.com/file/d/1nzhV61Hm2wRZitOxoyUFHU_Rpak-Svve/view?usp=sharing
 - **Estimativa de custos AWS (link da calculadora):** https://calculator.aws/#/estimate?id=30dbd95bbc09537580ff126a65d028d04cd32121
