@@ -63,7 +63,7 @@ O documento completo está em `analise-monolito.md`. Em resumo, o ToggleMaster �
 
 **Link da estimativa:** https://calculator.aws/#/estimate?id=30dbd95bbc09537580ff126a65d028d04cd32121
 
-[INSERIR PRINT DA TELA DE ESUMO DA CALCULADORA AQUI]
+![Texto descritivo](togglemaster-monolith/calc amz.jpeg)
 
 **Custo mensal estimado:** 23,67 USD /mês
 
