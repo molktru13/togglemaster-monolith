@@ -1,9 +1,9 @@
 # Relatório de Entrega — Tech Challenge Fase 1
 
-**Projeto:** ToggleMaster — Plataforma de Feature Flags
-**Curso:** Pós-graduação em DevOps e Arquitetura Cloud
-**Turma:** 4DCLT
-**Fase:** 01
+**Projeto:** ToggleMaster — Plataforma de Feature Flags<br>
+**Curso:** Pós-graduação em DevOps e Arquitetura Cloud<br>
+**Turma:** 4DCLT<br>
+**Fase:** 01<br>
 
 ---
 
